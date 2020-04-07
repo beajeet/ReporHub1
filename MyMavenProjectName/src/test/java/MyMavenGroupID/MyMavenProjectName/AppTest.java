@@ -15,6 +15,7 @@ public class AppTest
      */
     public AppTest( String testName )
     {
+    	 System.out.println("smoke app test");
     }
 
     /**
