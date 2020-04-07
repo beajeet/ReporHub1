@@ -17,6 +17,16 @@ public class AppTest
     {
     	 System.out.println("smoke app test");
     }
+    
+    public void AppTest2( String testName )
+    {
+    	 System.out.println("2nd test case of smoke");
+    }
+    
+    public void AppTest3( String testName )
+    {
+    	 System.out.println("3rd test case of smoke");
+    }
 
     /**
      * Rigourous Test :-)
