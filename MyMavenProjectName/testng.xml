@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="MyMavenGroupID.MyMavenProjectName.AppTest"/>
+      
       <class name="MyMavenGroupID.MyMavenProjectName.UniqueTest"/>
       
     </classes>
