@@ -39,7 +39,7 @@ public void joker() {
 	
 	
 	System.out.println("Test print here ...");
-	PropertyConfigurator.configure("/Users/ajeetpratapsingh/git/ReporHub1/MyMavenProjectName/src/main/resources/log4j.properties");
+	PropertyConfigurator.configure("/Users/ajeetpratapsingh/git/ReporHub1/MyMavenProjectName/src/main/syslogs/log4j.properties");
 	logger.info("Test Logging.... Ajeet");
 	//private static Logger log = LogManager.getLogger(UniqueTest.class.getName());
 	//log.error("This is error method");
